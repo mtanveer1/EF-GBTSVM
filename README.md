@@ -4,7 +4,7 @@
 
 Please cite the following paper if you are using this code.
 
-A. Quadir, M. Sajid, M. Tanveer, P. N. Suganthan. “Enhanced Feature Based Granular Ball Twin Support Vector Machine”, 27th International Conference on Pattern Recognition (ICPR), 2024. 
+A. Quadir, M. Sajid, M. Tanveer, P. N. Suganthan. “Enhanced Feature Based Granular Ball Twin Support Vector Machine”, (Submitted) 
 
 The experiments are executed on a computing system possessing Python 3.11 software, an Intel(R) Xeon(R) CPU E5-2697 v4 processor operating at 2.30 GHz with 128-GB Random Access Memory (RAM), and a Windows-11 operating platform.
 
