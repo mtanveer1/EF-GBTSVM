@@ -1,10 +1,8 @@
 # EF-GBTSVM: Enhanced Feature Based Granular Ball Twin Support Vector Machine
 
-
-
 Please cite the following paper if you are using this code.
 
-A. Quadir, M. Sajid, M. Tanveer, P. N. Suganthan. “Enhanced Feature Based Granular Ball Twin Support Vector Machine”, (Submitted) 
+A. Quadir, M. Sajid, M. Tanveer, P. N. Suganthan. “Enhanced Feature Based Granular Ball Twin Support Vector Machine”, IEEE Transactions on Emerging Topics in Computational Intelligence, 2026. 
 
 The experiments are executed on a computing system possessing Python 3.11 software, an Intel(R) Xeon(R) CPU E5-2697 v4 processor operating at 2.30 GHz with 128-GB Random Access Memory (RAM), and a Windows-11 operating platform.
 
@@ -25,6 +23,12 @@ RVFL.py: To generate the hidden matrix
 TWSVM.py: Solving the optimization problem
 
 For a comprehensive understanding of the experimental setup, please refer to the paper. Should you encounter any bugs or issues, feel free to contact A. Quadir at mscphd2207141002@iiti.ac.in.
+
+
+
+           
+
+
 
 
 
